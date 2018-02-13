@@ -8,5 +8,8 @@ body {
 h1,h2 {
   color: #011613;
   font-family: 'Amatic SC', cursive;
+}
 
+p.description {
+  width: 600px;
 }
