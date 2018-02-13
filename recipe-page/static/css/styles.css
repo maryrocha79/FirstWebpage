@@ -1,6 +1,10 @@
 body {
   background-color: #F3FAF9;
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Exo', sans-serif;
+  font-size: 20px;
 }
+
 h1,h2 {
   color: #011613;
 }
