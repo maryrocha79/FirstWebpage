@@ -10,11 +10,22 @@ h1,h2 {
   font-family: 'Amatic SC', cursive;
 }
 
-p.description {
+.description {
   width: 600px;
 }
 
-div.left {
+.left {
   width: 600px;
   float: left;
+  margin-top: 40px
+}
+
+.right {
+  width: 600px;
+  float: left;
+}
+
+.center {
+width: 1200px;
+text-align: center;
 }
