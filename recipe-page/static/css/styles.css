@@ -5,14 +5,25 @@ body {
   font-size: 20px;
 }
 
-h1,h2 {
-  color: #011613;
-  font-family: 'Amatic SC', cursive;
+.top {
+  width: 90%;
+ left: 5%;
+ right: 5%;
+ float: center;
+ position: relative;
+ overflow:auto;
+ text-align: center;
+
 }
 
-.description {
-  width: 600px;
+h1,h2 {
+
+  text-shadow: 2px 2px white;
 }
+
+/* .description {
+  width: 600px;
+} */
 
 .left {
   width: 600px;
@@ -26,6 +37,13 @@ h1,h2 {
 }
 
 .center {
-width: 1200px;
-text-align: center;
+    width: 1200px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
 }
+
+/* img {
+  border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+} */
