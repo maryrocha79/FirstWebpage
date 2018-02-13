@@ -13,3 +13,8 @@ h1,h2 {
 p.description {
   width: 600px;
 }
+
+div.left {
+  width: 600px;
+  float: left;
+}
