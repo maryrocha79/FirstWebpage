@@ -1,14 +1,19 @@
 body {
   background-color: #F3FAF9;
-  font-family: 'Amatic SC', cursive;
-  font-family: 'Exo', sans-serif;
-  font-size: 20px;
+  font-family: 'Kavivanar', cursive;
+
+
+  font-size: 30px;
+  width: auto;
+  height: auto;
+  left: auto;
+  right: auto;
 }
 
 .top {
   width: 90%;
  left: 5%;
- right: 5%;
+ right:  5%;
  float: center;
  position: relative;
  overflow:auto;
@@ -21,29 +26,20 @@ h1,h2 {
   text-shadow: 2px 2px white;
 }
 
-/* .description {
-  width: 600px;
-} */
 
 .left {
-  width: 600px;
+  width: 50%;
   float: left;
-  margin-top: 40px
+  margin-top: 30px
 }
 
 .right {
-  width: 600px;
+  width: 50%;
   float: left;
 }
 
 .center {
-    width: 1200px;
+    width: 100%;
     text-align: center;
-    box-shadow: 10px 10px 5px grey;
-}
 
-/* img {
-  border: 1px solid;
-    padding: 10px;
-    box-shadow: 5px 10px #888888;
-} */
+}
